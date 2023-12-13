@@ -15,4 +15,4 @@ jobs:
          cmd /c down.bat
 
       - name: Time Counter
-        run: Start-sleep -Seconds 47200
+        run: Start-sleep -Seconds 97200
